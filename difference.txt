@@ -1,0 +1,104 @@
+--- Helsinki-NLP_Opus
++++ Facebook_NLLB
+@@ -20,15 +20,18 @@
+ una
+ familia,
+ por
+-eso
++lo
++que
+ me
+ encanta
+ tenerla.
+ Necesitamos
+ una
+ maestra
++que
++sea
+ apasionada
+-en
++por
+ su
+ pasión
+ por
+@@ -37,11 +40,10 @@
+ y
+ que
+ nos
+-ama
++ame
+ a
+ todos.
+-Ella
+-es
++Es
+ parte
+ integral
+ de
+@@ -86,10 +88,10 @@
+ orgullo
+ y
+ alegría
++el
+ que
+ nos
+ hace
+-sentir
+ orgullosos
+ y
+ nos
+@@ -103,3 +105,54 @@
+ y
+ sus
+ aspiraciones.
++Quiero
++que
++la
++gente
++se
++sienta
++orgullosa
++de
++ella
++y
++que
++la
++familia
++se
++sienta
++orgullosa
++de
++ella
++y
++que
++la
++familia
++se
++sienta
++feliz
++de
++ella
++y
++que
++la
++familia
++se
++sienta
++feliz
++de
++ella
++y
++que
++la
++familia
++se
++sienta
++feliz
++de
++ella
++y
++que
++la
++familia
++se
++sienta
